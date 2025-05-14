@@ -55,11 +55,11 @@ A user-friendly PySide2-based tool for managing node prefixes in Houdini.
 
 ---
 
-### 3. **Import SOP Assets to Karma (Script)**
+### 3. **SOP to Lop (Script)**
 A GUI tool designed to simplify scene setup for Karma rendering workflows in Houdini.
 
 #### Features
-- Import scene assets into Karma with multiple modes:
+- Import scene assets into LOPs:
   - **All Together**: Imports everything at once.
   - **By Category**: Separates geometry, lights, and cameras.
   - **By Node/Prefix**: Filters imports based on selection or prefix.
