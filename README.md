@@ -53,6 +53,8 @@ A user-friendly PySide2-based tool for managing node prefixes in Houdini.
 2. Create a new shelf tool in Houdini.
 3. Edit the new tool and add the script in the python module under the script tab.
 
+---
+
 ### 3. **Import SOP Assets to Karma (Script)**
 A GUI tool designed to simplify scene setup for Karma rendering workflows in Houdini.
 
