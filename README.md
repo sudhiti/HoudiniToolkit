@@ -91,11 +91,6 @@ Contributions are welcome! Feel free to submit pull requests or raise issues for
 
 ---
 
-## License
-This repository is licensed under the [MIT License](LICENSE).
-
----
-
 ## Acknowledgments
 - **PolyHaven** for their open-access library and public API.
 - The Houdini community for inspiring innovative tools and workflows.
